@@ -1,21 +1,21 @@
-# Willkommen auf juhan's Startseite!
+# Lorem ipsum dolor sit amet, co
 
-## Hi ich bin Johann
+## Lorem ipsum dolor sit amet, co
 
-Ich bin schlauer als Marco.
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
 
-**Socials:**
+**Soziale Medien:**
 
 [GitHub](https://github.com/CarrotsonaStick) - [OnlyFans](https://onlyfans.com/)
 
-**Mehr links:**
+**Rechts:**
 
 [Redirects](/redirects)
 
-## Projekte
+## Lorem ipsum dolor sit amet, co
 
-(NOCH KEINE PROJEKTE ANGEBEN)
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
 ****
-###### Danke an *[Marco](https://github.com/mmmarco-de)* für die Domain!
+###### Domain by [Marco](https://github.com/mmmarco-de)
