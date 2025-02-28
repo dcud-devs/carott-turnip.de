@@ -1,1 +1,0 @@
-py compile.py index.md --embed-css --dark

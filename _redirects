@@ -4,13 +4,10 @@
 
 # Edit Links
 /edit-redirects https://github.com/Die-dummen-8/carott-turnip.de/edit/main/_redirects
-/edit /dokumentation-website/edit
 
-# juhan's Redirects (Services, etc.)
+# Some other redirects
+/acht https://github.com/Die-dummen-8/
 /repo https://github.com/Die-dummen-8/carott-turnip.de
 
-# 404 ERROR
-/* /404.html 404
-
-# else
-/* https://carott-turnip.de/
+# REDIRECT
+/* /
