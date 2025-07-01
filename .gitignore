@@ -1,1 +1,26 @@
-# Removed unnecessary files to make .gitignore cleaner than the hair of a bald man
+# Eleventy build output
+_site/
+
+# Node modules
+node_modules/
+
+# Local configuration files
+.env
+.env.*
+
+# Eleventy cache
+.cache/
+
+# IDE and OS generated files
+.DS_Store
+.vscode/
+.idea/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Thumbnails and temporary files
+*.bak
+*.swp
+*~
+*.log
