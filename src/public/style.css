@@ -1,0 +1,112 @@
+body {
+  background-color: black;
+  color: white;
+  margin: 10%;
+  font-size: 2rem;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+button {
+  font-size: 2rem;
+  padding: 1rem 1rem;
+  border: 2px solid white;
+  border-radius: 25px;
+  background-color: transparent;
+  color: white;
+  cursor: pointer;
+  font-family: inherit;
+  margin-bottom: 1rem;
+}
+
+input,
+textarea {
+  font-size: 2rem;
+  background-color: black;
+  color: white;
+  border: 1px solid white;
+  width: 25%;
+  overflow: hidden;
+  box-sizing: border-box;
+}
+
+a {
+  color: #9bf !important;
+  text-decoration: none;
+}
+
+#info {
+  font-size: 1rem;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+}
+
+img,
+video {
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
+
+mark {
+  padding: 2px 5px;
+  border-radius: 10px;
+  background-color: white;
+  color: black;
+}
+
+kbd {
+  color: white;
+  border: white solid 0.5px;
+  border-bottom: 3px solid white;
+  border-radius: 10px;
+  padding: 0.1rem 0.4rem 0.1rem 0.1rem;
+}
+
+.notice {
+  background: rgba(255, 255, 255, 0.175);
+  border: 2px solid white;
+  border-radius: 10px;
+  padding: 1.5rem;
+  margin: 2rem 0;
+}
+
+.slash {
+  color: rgba(153, 187, 255, 0.8);
+  font-size: 5rem;
+}
+
+@media (max-width: 768px) {
+  body {
+    font-size: 1.5rem;
+  }
+
+  button {
+    font-size: 1.5rem;
+    padding: 0.8rem 0.8rem;
+  }
+
+  input {
+    font-size: 1.5rem;
+    width: 80%;
+  }
+}
+
+@media (max-width: 480px) {
+  body {
+    font-size: 1.2rem;
+    margin: 5%;
+  }
+
+  button {
+    font-size: 1.2rem;
+    padding: 0.6rem 0.6rem;
+  }
+
+  input {
+    font-size: 1.2rem;
+    width: 90%;
+  }
+}
